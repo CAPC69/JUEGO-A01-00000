@@ -1,0 +1,30 @@
+body {
+    background: #37ADEB;
+    color: #ffffff;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+
+
+}
+p{
+    color:#ffffff;
+    font-feature-settings: "blws";
+    font-size:250%;
+    font-style:bold;
+    
+}
+
+
+
+
+
+
+
+
